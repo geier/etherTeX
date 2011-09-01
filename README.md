@@ -32,6 +32,11 @@ pdf.js is no perfect yet
 
 yes, at http://brutus.lostpackets.de/ethertex/pad.pdf
 
+** I tried it on my own server, but it doesn't work**
+
+don't hesitate to contact me, for example via mail at geier ät lostpackets dot
+de or via jabber/xmpp at geier ät jabber dot ccc dot de
+
 License
 -------
 I believe there isn't really anything here that deserves a license, but it
