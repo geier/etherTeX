@@ -5,24 +5,31 @@ etherTeX is supposed to provide real-time co-operative LaTeX
 editing. For this it uses etherpad-lite (for editing), pdf.js (for viewing),
 pdfLaTeX and PyEtherpadLite (for the glue).
 
-[https://github.com/Pita/etherpad-lite][etherpad-lite]
-[https://github.com/devjones/PyEtherpadLite][pyetherpad-lite]
-[https://github.com/andreasgal/pdf.js/][pdf.js]
+etherpad-lite: https://github.com/Pita/etherpad-lite
+PyEtherpadLite: https://github.com/devjones/PyEtherpadLite
+pdf.js: https://github.com/andreasgal/pdf.js/
 
 etherTex is very crude, hackish and brute-force approach to this problem.
 At the moment, etherTex allows only editing one LaTeX Document.
 
-A test install can be found at [http://brutus.lostpackets.de/ethertex/ethertex.py](http://brutus.lostpackets.de/ethertex/ethertex.py "test install") .
+A test install can be found at http://brutus.lostpackets.de/ethertex/ethertex.py .
 
 FAQ
 ---
 **Why is there no pdf displayed?**
+
 the LaTex document probably doesn't compile
+
 **why can't I see any changes in the pdf?**
+
 you need to manually hit the "typeset" button on the top left
+
 **why is the pdf is not properly displayed?**
+
 pdf.js is no perfect yet
+
 **can I download the pdf?**
+
 yes, at http://brutus.lostpackets.de/ethertex/pad.pdf
 
 License
