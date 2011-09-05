@@ -9,8 +9,8 @@ etherpad-lite: https://github.com/Pita/etherpad-lite
 PyEtherpadLite: https://github.com/devjones/PyEtherpadLite
 pdf.js: https://github.com/andreasgal/pdf.js/
 
-etherTex is very crude, hackish and brute-force approach to this problem.
-At the moment, etherTex allows only editing one LaTeX Document.
+etherTex a is very crude, hackish and brute-force approach to this problem.
+At the moment etherTex allows only editing one LaTeX Document.
 
 A test install can be found at http://brutus.lostpackets.de/ethertex/ethertex.py .
 
@@ -26,13 +26,14 @@ you need to manually hit the "typeset" button on the top left
 
 **why is the pdf is not properly displayed?**
 
-pdf.js is no perfect yet
+pdf.js is not perfect yet
 
 **can I download the pdf?**
 
 yes, at http://brutus.lostpackets.de/ethertex/pad.pdf
+but there should also be a link at the top of the site
 
-** I tried it on my own server, but it doesn't work**
+**I tried it on my own server, but it doesn't work**
 
 don't hesitate to contact me, for example via mail at geier ät lostpackets dot
 de or via jabber/xmpp at geier ät jabber dot ccc dot de
