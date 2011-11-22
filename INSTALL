@@ -4,8 +4,8 @@ HOW TO INSTALL etherTeX
 in the same directory as the files provided by etherTeX you should put (or link):
 py_etherpad.py from https://github.com/Pita/etherpad-lite .
 
-Also compatibility.js, viewer.css, viewer.js from pdf.js should be found in the
-same directory. etherTeX also expects to find the rest of pdf.js at ../pdf.js/
+etherTeX also expects to find pdf.js into its directory.
+
 
 You need to edit pdfjs.py:
 * edit the path to your pdflatex version
