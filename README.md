@@ -12,7 +12,7 @@ pdf.js: https://github.com/andreasgal/pdf.js/
 etherTex a is very crude, hackish and brute-force approach to this problem.
 At the moment etherTex allows only editing one LaTeX Document.
 
-A test install can be found at http://brutus.lostpackets.de/ethertex/ethertex.py .
+A test install can be found at http://brutus.lostpackets.de/ethertex/ethertex.py (which has recently had some connection problems).
 
 FAQ
 ---
